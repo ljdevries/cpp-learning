@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:../CPP-learning/test.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../CPP-learning/test.h">
+   </FileRef>
+   <FileRef
       location = "self:CPP-learning.xcodeproj">
    </FileRef>
 </Workspace>
